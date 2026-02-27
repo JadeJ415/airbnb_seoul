@@ -1,5 +1,0 @@
-streamlit
-pandas
-plotly
-koreanize-matplotlib
-requests
